@@ -1,4 +1,4 @@
-package com.jason.doublelistscroll.widget.Vh
+package com.jason.doublelistscroll.widget.vh
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
